@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import { Header } from './component/Header'
 import { HeroWithSkills } from './component/Hero'
+import { About } from './component/About'
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
     <>
     <Header />
     <HeroWithSkills />
+    <About />
     </>
   )
 }
