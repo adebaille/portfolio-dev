@@ -18,7 +18,7 @@ export function Header() {
         <div className="flex justify-between items-center py-4">
           <div className="cursor-pointer" onClick={() => scrollToSection('hero')}>
             <h1 className="text-xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
-              Portfolio : Alison Debaille
+                Alison Debaille
             </h1>
           </div>
 
