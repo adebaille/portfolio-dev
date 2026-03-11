@@ -99,9 +99,9 @@ export function HeroWithSkills() {
                   color: "from-blue-600 to-cyan-600",
                 },
                 {
-                  name: "Figma",
-                  slug: "figma",
-                  color: "from-purple-500 to-pink-500",
+                  name: "JavaScript",
+                  slug: "javascript",
+                  color: "from-yellow-400 to-yellow-500",
                 },
               ].map((tech, index) => (
                 <div
@@ -160,9 +160,9 @@ export function HeroWithSkills() {
                 color: "from-blue-600 to-cyan-600",
               },
               {
-                name: "Figma",
-                slug: "figma",
-                color: "from-purple-500 to-pink-500",
+                name: "JavaScript",
+                slug: "javascript",
+                color: "from-yellow-400 to-yellow-500",
               },
             ].map((tech, index) => (
               <div
