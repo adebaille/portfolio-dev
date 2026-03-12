@@ -21,7 +21,7 @@ export function Projects() {
       status: 'Terminé',
       statusColor: 'bg-blue-100 text-blue-700',
       technologies: ['React', 'TypeScript', 'Node', 'Express', 'MySQL'],
-      description: "Plateforme d'adoption d'animaux - Reproduction fidèle de maquette Figma, architecture d'une base de données relationnelle et d'une API REST. Implémentation de filtres dynamiques avancés.",
+      description: "Plateforme d'adoption d'animaux - Architecture d'une base de données relationnelle et d'une API REST. Implémentation de filtres dynamiques avancés.",
       role: 'Équipe (4 pers.) — Conception BDD, endpoints API et composants modulaires.',
       github: 'https://github.com/adebaille/adaopte',
       color: 'from-indigo-500 to-purple-500',
