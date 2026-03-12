@@ -5,7 +5,7 @@ import { Code2, Layers, Wrench } from 'lucide-react';
 export function Skills() {
   const languages = ['HTML5', 'CSS3', 'JS', 'TypeScript', 'SQL'];
   const frameworks = ['React', 'Node.js', 'Express', 'Tailwind', 'Recharts'];
-  const tools = ['Git / GitHub / VS Code', 'Figma / DrawSQL / Jira', 'Pair programming & Agile'];
+  const tools = ['Git / GitHub / VS Code', 'Figma Make / DrawSQL / Jira / Canva', 'Pair programming & Agile'];
 
   return (
     <section id="competences" className="py-20 px-4 sm:px-6 lg:px-8">

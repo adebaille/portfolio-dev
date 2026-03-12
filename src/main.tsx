@@ -4,6 +4,7 @@ import './index.css'
 import { Header } from './component/Header'
 import { HeroWithSkills } from './component/Hero'
 import { About } from './component/About'
+import { Skills } from './component/Skills'
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
     <Header />
     <HeroWithSkills />
     <About />
+    <Skills />
     </>
   )
 }
