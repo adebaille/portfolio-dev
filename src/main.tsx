@@ -6,6 +6,7 @@ import { HeroWithSkills } from './component/Hero'
 import { About } from './component/About'
 import { Skills } from './component/Skills'
 import { Projects } from './component/Project'
+import { Experience } from './component/Experience'
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
     <About />
     <Skills />
     <Projects />
+    <Experience />
     </>
   )
 }
